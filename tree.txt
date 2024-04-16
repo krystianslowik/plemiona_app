@@ -1,0 +1,24 @@
+api
+└── server.js
+
+1 directory, 1 file
+src
+├── App.css
+├── App.js
+├── App.test.js
+├── assets
+│   └── logo.png
+├── components
+│   └── PrivateRoute.js
+├── index.css
+├── index.js
+├── pages
+│   ├── DashboardPage.js
+│   └── LoginPage.js
+├── reportWebVitals.js
+├── services
+│   └── AuthService.js
+├── setupTests.js
+└── utils
+
+6 directories, 12 files
